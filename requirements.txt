@@ -1,0 +1,7 @@
+tgtg>=0.19.0
+inquirer
+python-dotenv
+requests
+# used by the vendored py_adyen_encrypt package
+cryptography
+pytz
